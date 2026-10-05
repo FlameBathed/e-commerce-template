@@ -110,6 +110,10 @@ h2 {
   text-align: center;
 }
 
+p{
+  line-height: 1.5;
+}
+
 button {
   cursor: pointer;
 }
@@ -165,6 +169,7 @@ HIGHLIGHTS
 
 .highlight__para  {
   text-align: center;
+  max-width: 240px;
 }
 
 .highlight__img {
@@ -183,5 +188,4 @@ margin-bottom: 24px;
 .highlight__subtitle {
   font-size: 20px;
   margin-bottom: 16px;
-
 }
